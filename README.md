@@ -1,0 +1,2 @@
+# 06go
+golang learning
